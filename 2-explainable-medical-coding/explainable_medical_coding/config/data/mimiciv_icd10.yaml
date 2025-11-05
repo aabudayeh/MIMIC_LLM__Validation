@@ -1,0 +1,5 @@
+dataset_path:  explainable_medical_coding/datasets/mimiciv_icd10.py
+# ========== Changed Code ==========
+target_columns: ["mimic_codes_y"]
+# ========== Changed Code ==========
+max_length: 6000
